@@ -236,3 +236,74 @@ webpack: Compiling...
 [0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 195 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
 
 webpack: Compiled successfully.
+
+> angular-io-example@1.0.0 start C:\Users\huangq1\Documents\emc\http
+> ng serve --host 0.0.0.0
+
+** NG Live Development Server is listening on 0.0.0.0:4200, open your browser on http://localhost:4200/ **
+[0mDate: [1m[37m2018-02-09T04:55:23.595Z[39m[22m[0m
+[0mHash: [1m[37m57147e6ab836c827de59[39m[22m[0m
+[0mTime: [1m[37m12916[39m[22mms[0m
+[0mchunk {[1m[33minline[39m[22m} [1m[32minline.bundle.js[39m[22m (inline) 5.79 kB [1m[33m[entry][39m[22m[1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 195 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mpolyfills[39m[22m} [1m[32mpolyfills.bundle.js[39m[22m (polyfills) 553 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mstyles[39m[22m} [1m[32mstyles.bundle.js[39m[22m (styles) 92.6 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mvendor[39m[22m} [1m[32mvendor.bundle.js[39m[22m (vendor) 9.93 MB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-09T04:56:32.812Z[39m[22m • Hash: [1m[37me6cc508a963504c82a47[39m[22m • Time: [1m[37m615[39m[22mms[0m
+[0m4 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 195 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-09T05:00:46.378Z[39m[22m • Hash: [1m[37m8543d51c1f61e24632b0[39m[22m • Time: [1m[37m486[39m[22mms[0m
+[0m4 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 195 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+[1m[31mERROR in src/app/config/config.service.ts(45,46): error TS2345: Argument of type '{ observe: "response"; emulateJSON: boolean; }' is not assignable to parameter of type '{ headers?: HttpHeaders | { [header: string]: string | string[]; }; observe?: "body"; params?: Ht...'.[39m[22m
+[1m[31m  Object literal may only specify known properties, and 'emulateJSON' does not exist in type '{ headers?: HttpHeaders | { [header: string]: string | string[]; }; observe?: "body"; params?: Ht...'.[39m[22m
+[1m[31m[39m[22m
+webpack: Compiling...
+[1m[31mERROR in src/app/config/config.service.ts(45,44): error TS1005: ',' expected.[39m[22m
+[1m[31m[39m[22m
+[0mDate: [1m[37m2018-02-09T05:00:48.209Z[39m[22m • Hash: [1m[37ma210b4547b88c72463af[39m[22m • Time: [1m[37m487[39m[22mms[0m
+[0m5 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-09T05:00:49.485Z[39m[22m • Hash: [1m[37m8543d51c1f61e24632b0[39m[22m • Time: [1m[37m568[39m[22mms[0m
+[0m5 unchanged chunks[0m
+
+webpack: Compiled successfully.
+[1m[31mERROR in src/app/config/config.service.ts(45,46): error TS2345: Argument of type '{ observe: "response"; emulateJSON: boolean; }' is not assignable to parameter of type '{ headers?: HttpHeaders | { [header: string]: string | string[]; }; observe?: "body"; params?: Ht...'.[39m[22m
+[1m[31m  Object literal may only specify known properties, and 'emulateJSON' does not exist in type '{ headers?: HttpHeaders | { [header: string]: string | string[]; }; observe?: "body"; params?: Ht...'.[39m[22m
+[1m[31m[39m[22m
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-09T05:04:17.411Z[39m[22m • Hash: [1m[37m0f744b4ca32ec2ba3a32[39m[22m • Time: [1m[37m347[39m[22mms[0m
+[0m4 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 195 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+[1m[31mERROR in src/app/config/config.service.ts(45,26): error TS2345: Argument of type '{ emulateJSON: boolean; }' is not assignable to parameter of type '{ headers?: HttpHeaders | { [header: string]: string | string[]; }; observe?: "body"; params?: Ht...'.[39m[22m
+[1m[31m  Object literal may only specify known properties, and 'emulateJSON' does not exist in type '{ headers?: HttpHeaders | { [header: string]: string | string[]; }; observe?: "body"; params?: Ht...'.[39m[22m
+[1m[31m[39m[22m
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-09T05:04:32.799Z[39m[22m • Hash: [1m[37m8543d51c1f61e24632b0[39m[22m • Time: [1m[37m316[39m[22mms[0m
+[0m4 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 195 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+[1m[31mERROR in src/app/config/config.service.ts(45,46): error TS2345: Argument of type '{ observe: "response"; emulateJSON: boolean; }' is not assignable to parameter of type '{ headers?: HttpHeaders | { [header: string]: string | string[]; }; observe?: "body"; params?: Ht...'.[39m[22m
+[1m[31m  Object literal may only specify known properties, and 'emulateJSON' does not exist in type '{ headers?: HttpHeaders | { [header: string]: string | string[]; }; observe?: "body"; params?: Ht...'.[39m[22m
+[1m[31m[39m[22m
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-09T05:04:51.011Z[39m[22m • Hash: [1m[37ma210b4547b88c72463af[39m[22m • Time: [1m[37m271[39m[22mms[0m
+[0m5 unchanged chunks[0m
+
+webpack: Compiled successfully.
+[1m[31mERROR in src/app/config/config.service.ts(45,46): error TS2345: Argument of type '{ observe: "response"; emulateJSON: boolean; }' is not assignable to parameter of type '{ headers?: HttpHeaders | { [header: string]: string | string[]; }; observe?: "body"; params?: Ht...'.[39m[22m
+[1m[31m  Object literal may only specify known properties, and 'emulateJSON' does not exist in type '{ headers?: HttpHeaders | { [header: string]: string | string[]; }; observe?: "body"; params?: Ht...'.[39m[22m
+[1m[31m[39m[22m

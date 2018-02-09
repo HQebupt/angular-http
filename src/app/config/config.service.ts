@@ -13,7 +13,7 @@ export interface Config {
 
 @Injectable()
 export class ConfigService {
-  configUrl = 'http://10.62.59.205:9090/api/2.0/nodes/5a7d140f667bfc01004f3ac6';
+  configUrl = 'http://10.62.59.205:9090/api/2.0/nodes';
   // https://angular-http-guide.firebaseio.com/courses.json
 
   constructor(private http: HttpClient) { }
@@ -42,7 +42,7 @@ export class ConfigService {
   getConfigResponse(): Observable<HttpResponse<any>> {
     console.log("getConfigResponse. configUrl:", this.configUrl);
     return this.http.get<any>(
-      this.configUrl, { observe: 'response' });
+      this.configUrl, { observe: 'response', emulateJSON:true });
   }
 
   private handleError(error: HttpErrorResponse) {
