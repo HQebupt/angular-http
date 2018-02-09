@@ -1,0 +1,238 @@
+
+> angular-io-example@1.0.0 start C:\Users\huangq1\Documents\emc\http
+> ng serve
+
+** NG Live Development Server is listening on localhost:4200, open your browser on http://localhost:4200/ **
+[0mDate: [1m[37m2018-02-08T10:53:47.033Z[39m[22m[0m
+[0mHash: [1m[37mb4c4f348837a64cbd607[39m[22m[0m
+[0mTime: [1m[37m5229[39m[22mms[0m
+[0mchunk {[1m[33minline[39m[22m} [1m[32minline.bundle.js[39m[22m (inline) 5.79 kB [1m[33m[entry][39m[22m[1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 2.93 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mpolyfills[39m[22m} [1m[32mpolyfills.bundle.js[39m[22m (polyfills) 636 bytes [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mstyles[39m[22m} [1m[32mstyles.bundle.js[39m[22m (styles) 92.6 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mvendor[39m[22m} [1m[32mvendor.bundle.js[39m[22m (vendor) 853 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+[0m[0m
+[0m[1m[31mERROR in src/app/config/config.component.ts(45,26): error TS2322: Type '{ constructor: Function; toString(): string; toLocaleString(): string; valueOf(): Object; hasOwnP...' is not assignable to type 'Config'.[39m[22m[0m
+[0m[1m[31m  Object literal may only specify known properties, and 'constructor' does not exist in type 'Config'.[39m[22m[0m
+[0m[1m[31m[39m[22m[0m
+
+webpack: Failed to compile.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T10:54:29.707Z[39m[22m • Hash: [1m[37m11a6e28fdd6603588546[39m[22m • Time: [1m[37m8963[39m[22mms[0m
+[0m2 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 195 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mpolyfills[39m[22m} [1m[32mpolyfills.bundle.js[39m[22m (polyfills) 553 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+[0mchunk {[1m[33mvendor[39m[22m} [1m[32mvendor.bundle.js[39m[22m (vendor) 9.93 MB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T10:55:26.668Z[39m[22m • Hash: [1m[37m1853d91699815fa38c5b[39m[22m • Time: [1m[37m529[39m[22mms[0m
+[0m4 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 195 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T10:56:01.539Z[39m[22m • Hash: [1m[37m5cc07d74b41086bc2330[39m[22m • Time: [1m[37m331[39m[22mms[0m
+[0m4 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 194 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T10:58:39.198Z[39m[22m • Hash: [1m[37mfabf341923fc923f1463[39m[22m • Time: [1m[37m460[39m[22mms[0m
+[0m4 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 194 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T10:59:45.821Z[39m[22m • Hash: [1m[37m21525e8860d160535d52[39m[22m • Time: [1m[37m420[39m[22mms[0m
+[0m4 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 194 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T10:59:53.839Z[39m[22m • Hash: [1m[37m0133bf1a4c02dc5ceb40[39m[22m • Time: [1m[37m267[39m[22mms[0m
+[0m5 unchanged chunks[0m
+
+webpack: Compiled successfully.
+[1m[31mERROR in src/app/config/config.service.ts(43,35): error TS2314: Generic type 'HttpResponse<T>' requires 1 type argument(s).[39m[22m
+[1m[31m[39m[22m
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T11:00:12.124Z[39m[22m • Hash: [1m[37m06c53ebc3f773f2e6808[39m[22m • Time: [1m[37m275[39m[22mms[0m
+[0m4 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 194 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+[1m[31mERROR in src/app/config/config.service.ts(43,35): error TS2314: Generic type 'HttpResponse<T>' requires 1 type argument(s).[39m[22m
+[1m[31m[39m[22m
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T11:01:40.373Z[39m[22m • Hash: [1m[37m05b96155b4123b6a1292[39m[22m • Time: [1m[37m329[39m[22mms[0m
+[0m4 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 194 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /
+[1m[31mERROR in src/app/config/config.service.ts(43,35): error TS2314: Generic type 'HttpResponse<T>' requires 1 type argument(s).[39m[22m
+[1m[31m[39m[22m
+[0mDate: [1m[37m2018-02-08T11:01:41.190Z[39m[22m • Hash: [1m[37mbe83281e45848e73b50b[39m[22m • Time: [1m[37m481[39m[22mms[0m
+[0m5 unchanged chunks[0m
+
+webpack: Compiled successfully.
+[1m[31mERROR in src/app/config/config.service.ts(43,35): error TS2314: Generic type 'HttpResponse<T>' requires 1 type argument(s).[39m[22m
+[1m[31m[39m[22m
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T11:02:48.776Z[39m[22m • Hash: [1m[37m05b96155b4123b6a1292[39m[22m • Time: [1m[37m330[39m[22mms[0m
+[0m5 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T11:09:12.892Z[39m[22m • Hash: [1m[37m20de9a8990d5f420a30a[39m[22m • Time: [1m[37m623[39m[22mms[0m
+[0m4 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 195 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T11:10:36.877Z[39m[22m • Hash: [1m[37me493df910c83efff62a7[39m[22m • Time: [1m[37m330[39m[22mms[0m
+[0m4 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 195 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T11:13:02.977Z[39m[22m • Hash: [1m[37madff0ade4470a094b408[39m[22m • Time: [1m[37m330[39m[22mms[0m
+[0m5 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T11:14:25.221Z[39m[22m • Hash: [1m[37me493df910c83efff62a7[39m[22m • Time: [1m[37m308[39m[22mms[0m
+[0m5 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T11:15:51.335Z[39m[22m • Hash: [1m[37ma054f0e6a02e8c840f26[39m[22m • Time: [1m[37m423[39m[22mms[0m
+[0m4 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 195 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /inline.bundle.js
+webpack: wait until bundle finished: /polyfills.bundle.js
+webpack: wait until bundle finished: /styles.bundle.js
+webpack: wait until bundle finished: /vendor.bundle.js
+[0mDate: [1m[37m2018-02-08T11:15:53.325Z[39m[22m • Hash: [1m[37m4d6922d8831ae128334c[39m[22m • Time: [1m[37m528[39m[22mms[0m
+[0m4 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 195 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T11:16:17.101Z[39m[22m • Hash: [1m[37ma054f0e6a02e8c840f26[39m[22m • Time: [1m[37m391[39m[22mms[0m
+[0m4 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 195 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T11:18:06.544Z[39m[22m • Hash: [1m[37m8f48e0f45a0cf036a0af[39m[22m • Time: [1m[37m310[39m[22mms[0m
+[0m4 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 195 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T11:19:52.045Z[39m[22m • Hash: [1m[37ma054f0e6a02e8c840f26[39m[22m • Time: [1m[37m478[39m[22mms[0m
+[0m4 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 195 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T11:21:39.934Z[39m[22m • Hash: [1m[37ma2445d8041529e7a9ef7[39m[22m • Time: [1m[37m309[39m[22mms[0m
+[0m5 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T11:22:55.451Z[39m[22m • Hash: [1m[37ma054f0e6a02e8c840f26[39m[22m • Time: [1m[37m257[39m[22mms[0m
+[0m5 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T11:23:02.921Z[39m[22m • Hash: [1m[37me5b704958851aa37ee5a[39m[22m • Time: [1m[37m282[39m[22mms[0m
+[0m4 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 195 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T11:23:12.881Z[39m[22m • Hash: [1m[37ma054f0e6a02e8c840f26[39m[22m • Time: [1m[37m369[39m[22mms[0m
+[0m4 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 195 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T11:29:38.431Z[39m[22m • Hash: [1m[37m7964472c744cf67b45ef[39m[22m • Time: [1m[37m441[39m[22mms[0m
+[0m4 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 195 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T11:29:47.449Z[39m[22m • Hash: [1m[37m3367f7afd262f9fc84d6[39m[22m • Time: [1m[37m434[39m[22mms[0m
+[0m4 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 195 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T11:29:51.083Z[39m[22m • Hash: [1m[37md8b0a1a13cbbd98045c7[39m[22m • Time: [1m[37m373[39m[22mms[0m
+[0m4 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 195 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T11:30:36.005Z[39m[22m • Hash: [1m[37mff076fc67c54f72e08c8[39m[22m • Time: [1m[37m330[39m[22mms[0m
+[0m4 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 195 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T11:30:47.966Z[39m[22m • Hash: [1m[37md8b0a1a13cbbd98045c7[39m[22m • Time: [1m[37m320[39m[22mms[0m
+[0m4 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 195 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T11:34:07.122Z[39m[22m • Hash: [1m[37mf8740429a21347fdfa8a[39m[22m • Time: [1m[37m260[39m[22mms[0m
+[0m5 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-08T11:35:27.408Z[39m[22m • Hash: [1m[37md8b0a1a13cbbd98045c7[39m[22m • Time: [1m[37m290[39m[22mms[0m
+[0m5 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+webpack: wait until bundle finished: /
+[0mDate: [1m[37m2018-02-08T11:35:28.087Z[39m[22m • Hash: [1m[37mf8740429a21347fdfa8a[39m[22m • Time: [1m[37m312[39m[22mms[0m
+[0m5 unchanged chunks[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-09T01:50:45.132Z[39m[22m • Hash: [1m[37m9d6be6c9fac596b2e4d8[39m[22m • Time: [1m[37m339[39m[22mms[0m
+[0m4 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 195 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-09T01:50:45.668Z[39m[22m • Hash: [1m[37m9e50e671b0f68131f2b8[39m[22m • Time: [1m[37m261[39m[22mms[0m
+[0m5 unchanged chunks[0m
+
+webpack: Compiled successfully.
+[1m[31mERROR in src/app/config/config.service.ts(24,36): error TS2339: Property 'configUrl' does not exist on type 'ConfigService'.[39m[22m
+[1m[31msrc/app/config/config.service.ts(25,31): error TS2339: Property 'configUrl' does not exist on type 'ConfigService'.[39m[22m
+[1m[31msrc/app/config/config.service.ts(44,55): error TS2339: Property 'configUrl' does not exist on type 'ConfigService'.[39m[22m
+[1m[31msrc/app/config/config.service.ts(46,12): error TS2339: Property 'configUrl' does not exist on type 'ConfigService'.[39m[22m
+[1m[31m[39m[22m
+[1m[31mERROR in src/app/config/config.service.ts(24,36): error TS2339: Property 'configUrl' does not exist on type 'ConfigService'.[39m[22m
+[1m[31msrc/app/config/config.service.ts(25,31): error TS2339: Property 'configUrl' does not exist on type 'ConfigService'.[39m[22m
+[1m[31msrc/app/config/config.service.ts(44,55): error TS2339: Property 'configUrl' does not exist on type 'ConfigService'.[39m[22m
+[1m[31msrc/app/config/config.service.ts(46,12): error TS2339: Property 'configUrl' does not exist on type 'ConfigService'.[39m[22m
+[1m[31m[39m[22m
+webpack: Compiling...
+[0mDate: [1m[37m2018-02-09T01:50:49.020Z[39m[22m • Hash: [1m[37m1403fa73551dd704030f[39m[22m • Time: [1m[37m324[39m[22mms[0m
+[0m4 unchanged chunks[0m
+[0mchunk {[1m[33mmain[39m[22m} [1m[32mmain.bundle.js[39m[22m (main) 195 kB [1m[33m[initial][39m[22m[1m[32m [rendered][39m[22m[0m
+
+webpack: Compiled successfully.
