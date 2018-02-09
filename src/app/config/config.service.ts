@@ -13,8 +13,7 @@ export interface Config {
 
 @Injectable()
 export class ConfigService {
-  configUrl = 'http://hao.caibaojian.com/44878.html';
-  //configUrl = 'http://10.62.59.205:9090/api/2.0/nodes/5a66b5f1ab23560100a424a7';
+  configUrl = 'http://10.62.59.205:9090/api/2.0/nodes/5a7d140f667bfc01004f3ac6';
   // https://angular-http-guide.firebaseio.com/courses.json
 
   constructor(private http: HttpClient) { }
