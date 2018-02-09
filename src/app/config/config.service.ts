@@ -42,7 +42,7 @@ export class ConfigService {
   getConfigResponse(): Observable<HttpResponse<any>> {
     console.log("getConfigResponse. configUrl:", this.configUrl);
     return this.http.get<any>(
-      this.configUrl, { observe: 'response', emulateJSON:true });
+      this.configUrl, { observe: 'response'});
   }
 
   private handleError(error: HttpErrorResponse) {
